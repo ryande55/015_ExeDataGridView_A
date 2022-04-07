@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\datamahasiswa\datamahasiswa\bin\Debug\datamahasiswa.exe.config
+C:\Users\ASUS\source\repos\datamahasiswa\datamahasiswa\bin\Debug\datamahasiswa.exe
+C:\Users\ASUS\source\repos\datamahasiswa\datamahasiswa\bin\Debug\datamahasiswa.pdb
+C:\Users\ASUS\source\repos\datamahasiswa\datamahasiswa\obj\Debug\datamahasiswa.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\datamahasiswa\datamahasiswa\obj\Debug\datamahasiswa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\datamahasiswa\datamahasiswa\obj\Debug\datamahasiswa.Form1.resources
+C:\Users\ASUS\source\repos\datamahasiswa\datamahasiswa\obj\Debug\datamahasiswa.Properties.Resources.resources
+C:\Users\ASUS\source\repos\datamahasiswa\datamahasiswa\obj\Debug\datamahasiswa.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\datamahasiswa\datamahasiswa\obj\Debug\datamahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\datamahasiswa\datamahasiswa\obj\Debug\datamahasiswa.exe
+C:\Users\ASUS\source\repos\datamahasiswa\datamahasiswa\obj\Debug\datamahasiswa.pdb
